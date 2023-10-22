@@ -1,0 +1,7 @@
+C:\Users\justi\OneDrive\Documentos\Programación 2\Tiposdedatos\Examen1Progra2\Examen1Progra2\bin\Debug\Examen1Progra2.exe.config
+C:\Users\justi\OneDrive\Documentos\Programación 2\Tiposdedatos\Examen1Progra2\Examen1Progra2\bin\Debug\Examen1Progra2.exe
+C:\Users\justi\OneDrive\Documentos\Programación 2\Tiposdedatos\Examen1Progra2\Examen1Progra2\bin\Debug\Examen1Progra2.pdb
+C:\Users\justi\OneDrive\Documentos\Programación 2\Tiposdedatos\Examen1Progra2\Examen1Progra2\obj\Debug\Examen1Progra2.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Documentos\Programación 2\Tiposdedatos\Examen1Progra2\Examen1Progra2\obj\Debug\Examen1Progra2.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Documentos\Programación 2\Tiposdedatos\Examen1Progra2\Examen1Progra2\obj\Debug\Examen1Progra2.exe
+C:\Users\justi\OneDrive\Documentos\Programación 2\Tiposdedatos\Examen1Progra2\Examen1Progra2\obj\Debug\Examen1Progra2.pdb
